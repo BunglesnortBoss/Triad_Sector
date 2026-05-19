@@ -163,8 +163,8 @@
   - type: Appearance
   - type: AmmoCounter
   - type: Battery
-    maxCharge: 18000
-    startingCharge: 18000
+    maxCharge: 15500
+    startingCharge: 15500
   - type: ExaminableBattery
   - type: WirelessNetworkConnection
     range: 500
@@ -181,7 +181,7 @@
       path: /Audio/Weapons/click.ogg
   - type: BatterySelfRecharger
     autoRecharge: true
-    autoRechargeRate: 2250
+    autoRechargeRate: 220
   - type: SpaceArtillery
     powerChargeRate: 700
     powerUsePassive: 100
@@ -398,12 +398,12 @@
   - type: Gun
     projectileSpeed: 240
     minAngle: 0
-    maxAngle: 6
+    maxAngle: 8
     fireRate: 1
     recoil: 10 # 2/5x
-    burstCooldown: 5.5
-    burstFireRate: 100
-    shotsPerBurst: 100
+    burstCooldown: 16
+    burstFireRate: 50
+    shotsPerBurst: 50
     selectedMode: Burst
     availableModes: Burst
     shootThermalSignature: 500000 # ~5.6km with continuous fire
@@ -413,7 +413,7 @@
       path: /Audio/Weapons/click.ogg
   - type: BatterySelfRecharger
     autoRecharge: true
-    autoRechargeRate: 30000
+    autoRechargeRate: 300
   - type: SpaceArtillery
     powerChargeRate: 700
     powerUsePassive: 100
@@ -572,7 +572,7 @@
   - type: WirelessNetworkConnection
     range: 500
   - type: Gun
-    fireRate: 15
+    fireRate: 20
     recoil: 0
     minAngle: 0
     maxAngle: 0
@@ -651,7 +651,7 @@
     soundEmpty:
       path: /Audio/Weapons/Guns/EmptyAlarm/smg_empty_alarm.ogg
   - type: SpaceArtillery
-    powerChargeRate: 20000
+    powerChargeRate: 200
     powerUsePassive: 300
     powerUseActive: 0
   - type: FireControlRotate
@@ -701,13 +701,13 @@
   - type: Appearance
   - type: AmmoCounter
   - type: Battery
-    maxCharge: 56250 # 20 seconds of constant fire, 375 rock walls destroyed per full mag. 5 mining pulsers needed to equal its output.
-    startingCharge: 56250
+    maxCharge: 50000
+    startingCharge: 50000
   - type: BatterySelfRecharger
     autoRechargePause: true
     autoRechargePauseTime: 30
     autoRecharge: true
-    autoRechargeRate: 56250
+    autoRechargeRate: 50000
   - type: FireControlRotate
   - type: ExaminableBattery
   - type: WirelessNetworkConnection
