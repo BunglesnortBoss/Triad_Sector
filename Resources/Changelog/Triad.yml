@@ -982,3 +982,10 @@ Entries:
   id: 2235
   time: '2026-05-26T21:10:55.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/138
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: Rollerbeds (folded and unfolded) now persist on ship saving.
+  id: 2236
+  time: '2026-05-26T21:11:22.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/137
