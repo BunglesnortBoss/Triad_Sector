@@ -174,7 +174,7 @@ public sealed partial class SalvageSystem
 
             // Frontier: disable cooldown when still in FTL
             if (!TryComp<StationDataComponent>(uid, out var stationData)
-                || !HasComp<FTLComponent>(_station.GetLargestGrid((uid, stationData))))
+                || !HasComp<FTLComponent>(_station.GetLargestGrid(stationData)))
             {
                 comp.Cooldown = false;
             }
