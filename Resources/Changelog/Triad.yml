@@ -1049,3 +1049,12 @@ Entries:
   id: 2244
   time: '2026-05-30T17:27:53.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/158
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: >-
+        Forced accents have been removed from most clothings. Some exceptions
+        were made such as cat/doggy ears, muzzles, and cluwne masks.
+  id: 2245
+  time: '2026-05-30T17:47:23.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/157
