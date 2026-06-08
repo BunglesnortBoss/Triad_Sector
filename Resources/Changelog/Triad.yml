@@ -1309,3 +1309,10 @@ Entries:
   id: 2270
   time: '2026-06-07T22:35:09.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/187
+- author: Stedar111
+  changes:
+    - type: Add
+      message: HZD Squire, a folding SMG!
+  id: 2271
+  time: '2026-06-08T12:26:26.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/147
