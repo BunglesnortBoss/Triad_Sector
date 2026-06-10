@@ -1400,3 +1400,10 @@ Entries:
   id: 2280
   time: '2026-06-10T13:09:36.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/206
+- author: Lazlo23
+  changes:
+    - type: Tweak
+      message: Plant analyzers now properly fit into botanical stashes
+  id: 2281
+  time: '2026-06-10T13:47:35.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/201
