@@ -1433,3 +1433,10 @@ Entries:
   id: 2283
   time: '2026-06-10T23:38:44.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/207
+- author: Wuffindy
+  changes:
+    - type: Tweak
+      message: Changed save contraband icon
+  id: 2284
+  time: '2026-06-11T22:17:35.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/210
