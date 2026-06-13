@@ -1485,3 +1485,14 @@ Entries:
   id: 2289
   time: '2026-06-13T00:32:16.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/214
+- author: Minerva
+  changes:
+    - type: Add
+      message: >-
+        Decorative ship greebles are now constructable and deconstructable:
+        antennas, radar panels, and ELINT. These still have no function. Be
+        aware that they have an offset the construction ghost doesn't show,
+        allowing you to build "off the grid".
+  id: 2290
+  time: '2026-06-13T23:10:41.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/213
