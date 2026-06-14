@@ -1503,3 +1503,12 @@ Entries:
   id: 2291
   time: '2026-06-14T00:29:47.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/218
+- author: Dimasw99
+  changes:
+    - type: Add
+      message: >-
+        Avali, Protogen and Hydrakin cubes have been added to the biocube
+        fabricator.
+  id: 2292
+  time: '2026-06-14T00:37:00.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/215
