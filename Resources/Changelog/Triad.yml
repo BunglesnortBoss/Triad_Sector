@@ -1571,3 +1571,12 @@ Entries:
   id: 2297
   time: '2026-06-14T13:28:39.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/222
+- author: SquishyEmmaaaa
+  changes:
+    - type: Fix
+      message: >-
+        Fixed seed packets being affected by the original plant even after
+        clipping.
+  id: 2298
+  time: '2026-06-14T17:01:23.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/194
