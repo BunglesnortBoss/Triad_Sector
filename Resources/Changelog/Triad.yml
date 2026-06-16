@@ -1637,3 +1637,12 @@ Entries:
   id: 2305
   time: '2026-06-15T13:10:30.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/169
+- author: Dimasw99
+  changes:
+    - type: Fix
+      message: >-
+        EventHealthChange affects limbs now. Making meds like cryoxadone heal
+        limbs now too.
+  id: 2306
+  time: '2026-06-16T02:39:11.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/232
